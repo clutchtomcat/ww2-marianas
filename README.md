@@ -9,7 +9,7 @@ A rudimentary flight area. Mission start time 0559.
 ### Client Slots (4 ea.)
 - Orote F4U-1D
 - Intrepid (Essex) F4U-1D
-- Victorious (Essex) F4U-1D
+- Victorious (Essex) F4U-1D MkIV
 
 ### Carriers (auto turn-into-wind)
 - Intrepid approximately 70nm west/northwest of Rota, nav radio channel 1
