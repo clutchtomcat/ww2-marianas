@@ -1,5 +1,6 @@
 # WW2 Marianas Sandbox v1.0 Beta
 Endless sandbox for Corsairs and Thunderbolts with random-spawn ground units and AI conducting cyclical air support, interdiction, and other missions for an 8-hour period. 
+## Do NOT choose a slot until mission time is 10:03 or scripts will not run!
 
 ### Situation
 The Allies have achieved air superiority over the Marianas and have begun the invasions of Saipan and Guam, however Rota and Tinian are still under Japanese control. CV-13, with VF-5 and VMF-214 embarked, is tasked with strikes on Rota while HMS Illustrious of the British Pacific Fleet is responsible for targets on Tinian. On Guam, ground forces have split the island in two, with the enemy cornered on the northern and southern areas of the island. Orote and Agana have been repaired and are operational, with MAG-21 conducting air support out of Agana. On Saipan, Kanoa and Isley airfields have been secured. The AAF's 318th Fighter Group is bearing the brunt of air support operations in central and northern Saipan. 
